@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.cod{
+    background-color: aqua;
+}
+.down{
+    background: linear-gradient(to top, rgba(0,0,0,0.5) 50%,rgba(0,0,0,0.5) 50%), url("mi.jpeg");
+    background-size: cover;
+    background-position: center;
+    width: 20px;
+    width: 100%;
+    min-width: 100px;
+    min-height: 50%;
+
+}
+h1{
+    color:white;
+    text-align: center;
+
+}
+.bo a{
+    color: white;
+    text-align: center;
+}
+.do{
+    background-color: turquoise;
+}
+.africa{
+    background-color: lightblue;
+}
+.vide{
+    color: red;
+}
+.drc{
+color: white;
+
+
+}
+.drc  a{
+    color: green;
+    
+
+}
